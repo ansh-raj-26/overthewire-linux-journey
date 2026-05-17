@@ -2,7 +2,7 @@
 
 ## Goal
 
-I had to find the password in the given file names -
+I had to find the hidden file inside a director
 
 ---
 
@@ -29,7 +29,7 @@ cat ./.  ..  ...Hiding-From-You
 4. Successfully logged into remote Linux machine
 5. List the file
 6. To find hidden file run ls -a command.
-6. For expression file we have to use cat with ./<filename>
+7. For expression file we have to use cat with ./<filename>
 
 ## What I Learned
 
